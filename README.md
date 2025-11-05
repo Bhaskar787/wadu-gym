@@ -46,7 +46,7 @@ peakMA/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/peakMA.git
+   git clone https://github.com/Bhaskar787?tab=repositories
    ```
 
 2. **Move the project folder** into your local web server directory  
